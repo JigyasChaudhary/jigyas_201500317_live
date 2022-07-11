@@ -1,0 +1,43 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assesment</title>
+    <link rel="stylesheet" href="./Assignment.css">
+</head>
+
+<body>
+    <div id ="header">
+        <div><header id ="logo">R</header>
+        </div>
+        
+        
+            <nav id ="navi">
+               <a href="#">Home</a>
+               <a href="#">Project</a>
+               <a href="#">Pages</a>
+               <a href="#">Elements</a>
+               <a href="#">Blog</a>
+               <a href="#">Shop</a>
+               <a href="#">Contact</a>
+               <p><h1>Digital Agency With Excellence Services</h1><img src="images.jpg" alt=""></p>
+               
+           </nav>
+           <footer>
+              <h3> Jigyas Chaudhary</h3>
+              <h3> GLA University</h3>
+              <h3>University Roll No: 201500317</h3>
+              <h3> 11/07/2022</h3>
+              
+
+           </footer>
+           
+       
+            
+        
+    </div>
+    
+</body>
+</html>
